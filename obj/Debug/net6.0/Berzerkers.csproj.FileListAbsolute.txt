@@ -1,0 +1,30 @@
+C:\c# Projects\second year\Berzerkers\bin\Debug\net6.0\Berzerkers.exe
+C:\c# Projects\second year\Berzerkers\bin\Debug\net6.0\Berzerkers.deps.json
+C:\c# Projects\second year\Berzerkers\bin\Debug\net6.0\Berzerkers.runtimeconfig.json
+C:\c# Projects\second year\Berzerkers\bin\Debug\net6.0\Berzerkers.dll
+C:\c# Projects\second year\Berzerkers\bin\Debug\net6.0\Berzerkers.pdb
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\Berzerkers.csproj.AssemblyReference.cache
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\Berzerkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\Berzerkers.AssemblyInfoInputs.cache
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\Berzerkers.AssemblyInfo.cs
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\Berzerkers.csproj.CoreCompileInputs.cache
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\Berzerkers.dll
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\refint\Berzerkers.dll
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\Berzerkers.pdb
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\Berzerkers.genruntimeconfig.cache
+C:\c# Projects\second year\Berzerkers\obj\Debug\net6.0\ref\Berzerkers.dll
+C:\C#\year 2\Berzerkers\bin\Debug\net6.0\Berzerkers.exe
+C:\C#\year 2\Berzerkers\bin\Debug\net6.0\Berzerkers.deps.json
+C:\C#\year 2\Berzerkers\bin\Debug\net6.0\Berzerkers.runtimeconfig.json
+C:\C#\year 2\Berzerkers\bin\Debug\net6.0\Berzerkers.dll
+C:\C#\year 2\Berzerkers\bin\Debug\net6.0\Berzerkers.pdb
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\Berzerkers.csproj.AssemblyReference.cache
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\Berzerkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\Berzerkers.AssemblyInfoInputs.cache
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\Berzerkers.AssemblyInfo.cs
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\Berzerkers.csproj.CoreCompileInputs.cache
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\Berzerkers.dll
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\refint\Berzerkers.dll
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\Berzerkers.pdb
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\Berzerkers.genruntimeconfig.cache
+C:\C#\year 2\Berzerkers\obj\Debug\net6.0\ref\Berzerkers.dll
